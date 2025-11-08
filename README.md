@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is learning purpose demo repo
 <br>
-author shraddha khappra
+author shraddha khappra(from buldhana)
